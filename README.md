@@ -1,4 +1,4 @@
-# robokit 
+# Robokit
 
 Robô de investimento universal completo, com todas as funções, indicadores e estratégias mais conhecidas pelos investidores do mercado financeiro.
 
