@@ -1,4 +1,4 @@
-# robokit
+# robokit 
 
 Robô de investimento universal completo, com todas as funções, indicadores e estratégias mais conhecidas pelos investidores do mercado financeiro.
 
@@ -8,3 +8,4 @@ O objetivo principal é padronizar uma plataforma única de criação de robôs 
 
 Robo"Kit" = Plataforma opens source + setup compartilhado. É só baixar e usar!
 
+Para traders, desenvolvedores e quem gosta de robots investidores.
